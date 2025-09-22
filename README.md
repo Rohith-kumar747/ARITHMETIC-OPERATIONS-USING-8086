@@ -1,4 +1,4 @@
-# Arithmetic-operation-using-8086
+![WhatsApp Image 2025-09-22 at 12 57 02_9ef5a3a1](https://github.com/user-attachments/assets/6bb13439-7c00-49d4-b8d9-84220b8d0106)# Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
@@ -62,10 +62,13 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-22 at 13 21 32_83981b6d](https://github.com/user-attachments/assets/451718a2-c070-4f36-a1d3-bbc4d1a9dd4d)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![addindirect](https://github.com/user-attachments/assets/fa1b1d81-3989-4c05-9048-f378a81c8267)
+
 
 ## 2. SUBTRACTION
 
@@ -113,11 +116,14 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-22 at 13 21 33_50a74b75](https://github.com/user-attachments/assets/d64c3b1d-4ec8-4f35-a703-eb3ef1fc4d54)
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![subindirect](https://github.com/user-attachments/assets/22314543-97ec-4ba1-bc5f-deaf83e71bf1)
+
 
 ## 3. MULTIPLICATION
 
@@ -162,10 +168,13 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-22 at 13 21 33_2f41818e](https://github.com/user-attachments/assets/a2307bcf-9ac9-41a2-a88d-dbbb701f94f9)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![multiplicationindirect](https://github.com/user-attachments/assets/8e754320-c771-4402-86d0-61a677eed51e)
+
 
 ## 4. DIVISION
 
@@ -207,10 +216,12 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+![WhatsApp Image 2025-09-22 at 13 21 34_7ddd85d9](https://github.com/user-attachments/assets/f759fcd2-619c-4fef-8e0e-f60e7ff46d3f)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+![divideindirect](https://github.com/user-attachments/assets/6df920f7-c43a-4d78-8e64-de4d644ce820)
 
 
 ## RESULT
